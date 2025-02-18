@@ -29,6 +29,8 @@ public class Game
     System.out.println("Select the tile locations you want to match,");
     System.out.println("or enter any non-integer character to quit.");
     System.out.println("(You will need to know 2D arrays to play!)");
+    System.out.println("\nIMPORTANT NOTE: WHEN MAKING YOUR CHOICE, MAKE SURE TO PUT IN THE ROW NUMBER");
+    System.out.println("THEN PRESS THE SPACEBAR EXACTLY ONE TIME AND THEN TYPE IN THE COLUMN NUMBER!");  
     System.out.println("\nPress Enter to continue...");
     in.nextLine();
 
